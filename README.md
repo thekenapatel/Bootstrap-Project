@@ -6,7 +6,7 @@ A responsive and visually appealing **Apple-inspired** website built using **HTM
 
 ## 🌐 Live Demo
 
-🔗 [View Live on GitHub Pages](https://thekenapatel.github.io/Bootstrap-Project/)
+🔗 [Bootstrap Apple Website Live](https://thekenapatel.github.io/Bootstrap-Project/)
 
 ---
 
